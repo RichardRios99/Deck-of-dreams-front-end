@@ -1,0 +1,40 @@
+.post-container {
+	/*border-style: solid;
+	border-color: green;*/
+	width: 50%;
+	/*position: fixed;*/
+	margin-right: 50px;
+	margin-left:  50px;
+	/*overflow: auto;*/
+	/*max-height: 425px;*/
+	margin-top: 30px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	background-color: #FFFCFF;
+	/*position: fixed;*/
+
+}
+.feed {
+	overflow: auto;
+	max-height: 425px;
+}
+#share {
+	height: 30px;
+	width: 30px;
+	/*margin-left: 180px;*/
+	color:white;
+	/*border-style: solid;*/
+}
+
+.p-nav{
+	background-color: #DE9151;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+#feedimg {
+	height: 40px;
+	width: 40px;
+}
+
+.user-name{
+	color: blue;
+}

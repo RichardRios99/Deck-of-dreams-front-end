@@ -1,0 +1,17 @@
+.answer-section {
+	padding:30px;
+	margin-right: 60px;
+	padding-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+	align-content: flex-end;
+}
+
+.choices {
+	margin-bottom: 30px;
+}
+
+
+
+
+

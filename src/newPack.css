@@ -1,0 +1,27 @@
+#card {
+	/*opacity: 0.5;*/
+	background-color: rgba(189,191,185,0.3 );
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a4/SDPadres_logo.svg");
+	background-repeat: no-repeat;
+	backface-visibility: 0.5;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+img {
+	/*border-radius: 50%;*/
+	/*image-rendering: auto;*/
+  image-rendering: crisp-edges;
+  /*image-rendering: pixelated;*/
+	height: 100px;
+	width: 100px;
+}
+
+.m-bod{
+	overflow: auto;
+	max-height: 520px;
+	background-color: white;
+}
+
+.card {
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

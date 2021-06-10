@@ -1,38 +1,94 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.homepage {
+  /*isplay: flex;
+  flex-direction: row;*/
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-top: 50px;
+  /*background-color: #FFF3D6;*/
 }
 
-.App-link {
-  color: #61dafb;
+.home-page{
+	display: flex;
+	flex-direction: row;
+	margin-top: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.main-nav {
+  position: sticky;
+  background-color: #3DE9151; 
+}
+
+#main-img {
+	height: 40px;
+	width: 40px;
+}
+
+#portal {
+	/*padding-top:40px;*/
+	
+}
+
+.post-container {
+	margin-right: 800px;
+}
+
+.final-nav {
+	background-color: #DE9151;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+
+}
+
+.bg-light {
+	background-color: #CD5334;
+}
+
+.s-bttn {
+	background-color: #CD5334
+}
+
+.options {
+	display: flex;
+	flex-direction: row;
+	overflow: auto;
+	max-width: 600px;
+	justify-content:space-around;
+	position: absolute;
+	margin-top: 470px;
+	position: absolute;
+	/*margin-right: 100%;*/
+}
+
+
+.each-option {
+
+	min-width: 200px;
+	width: 200px;
+	/*position: absolute;*/
+	/*padding-left: 50px;*/
+}
+
+
+
+#user-name{
+	color: blue;
+	text-decoration: underline;
+}
+
+#ob {
+	position: absolute;
+	margin-top: 58%;
+}
+
+#teamName {
+	/*position: absolute;*/
+	/*margin-bottom: 150px;*/
+}
+
+.q {
+	background-color: #3e4166;
+}
+
+.Brand {
+	/*margin-left: 80px;*/
+	/*position: absolute;*/
+	
 }

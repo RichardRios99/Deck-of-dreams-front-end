@@ -1,0 +1,267 @@
+
+#rules {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-content: space-around;
+	margin-top: 30%;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+	height: 40%;
+
+	/*background-color: blck;*/
+	/*padding-right: 40px;*/
+}
+
+#center-card{
+	margin-right: 100px;
+	margin-left:  100px;
+}
+
+.card-img-top {
+	height: 60%;
+}
+
+.NYY {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/2/25/NewYorkYankees_PrimaryLogo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}
+
+.BOS {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/6/6d/RedSoxPrimary_HangingSocks.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}
+.CWS {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_White_Sox.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}
+.CHC {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.CIN {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/01/Cincinnati_Reds_Logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.HOU {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6b/Houston-Astros-Logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.CLE {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/ee/Cleveland_Indians_primary_logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.COL {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/31/Colorado_Rockies_logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.DET {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.MIN {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/b/b4/Minnesota_Twins_logo_%28low_res%29.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.KC {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/1/1c/Kansas_City_Royals.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.ANA {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/8b/Los_Angeles_Angels_of_Anaheim.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.LAD {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/a/a0/Los_Angeles_Dodgers_logo_%28low_res%29.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.MIA {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Marlins_team_logo.svg/800px-Marlins_team_logo.svg.png);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.MIL {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.OAK {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/a4/Oakland_A%27s_logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.PHI {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/f/f0/Philadelphia_Phillies_%282019%29_logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.PIT {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/81/Pittsburgh_Pirates_logo_2014.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.SD {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/a4/SDPadres_logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.SF {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/5/58/San_Francisco_Giants_Logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.SEA {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/6/6d/Seattle_Mariners_logo_%28low_res%29.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.STL {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/9/9d/St._Louis_Cardinals_logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.TB {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/c/c6/Tampa_Bay_Rays.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.TEX {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/4/41/Texas_Rangers.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.TOR {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/6/68/Toronto_Blue_Jays_cap.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.WAS {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/6/6c/Washington_Nationals_logo_%28low_res%29.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	border-style: solid;
+	/*height: 50%;*/
+}
+.ARI {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/5/54/Arizona_Diamondbacks_logo_%28low_res%29.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	width: 100%;
+	border-style: solid;
+	border-right: none;
+	border-left:none;
+	border-bottom: none;
+	/*height: 50%;*/
+}.NYM {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/7/7b/New_York_Mets.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.BAL {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6b/Houston-Astros-Logo.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}.ATL {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	/*height: 50%;*/
+}
+
+
+
+
+
+
+
+
+
+#NYY {
+	margin-left: 60px;
+}	
+#BOS {
+margin-left: 60px;
+
+}
+#CWS {
+	margin-left: 60px;
+}
+#CHC {
+	margin-left: 60px;
+}#CIN {
+	margin-left: 60px;
+}#HOU {
+	margin-left: 60px;
+}#CLE {
+	margin-left: 60px;
+}#COL {
+	margin-left: 60px;
+}#DET {
+	margin-left: 60px;
+}#MIN {
+	margin-left: 60px;
+}#KC {
+	margin-left: 60px;
+}#ANA {
+	margin-left: 60px;
+}#LAD {
+	margin-left: 60px;
+}#MIA {
+	margin-left: 60px;
+}#MIL {
+	margin-left: 60px;
+}#OAK {
+	margin-left: 60px;
+}#PHI {
+	margin-left: 60px;
+}#PIT {
+	margin-left: 60px;
+}#SD {
+	margin-left: 60px;
+}#SF {
+	margin-left: 60px;
+}#SEA {
+	margin-left: 60px;
+}#STL {
+	margin-left: 60px;
+}#TB {
+	margin-left: 60px;
+}#TEX {
+	margin-left: 60px;
+}#TOR {
+	margin-left: 60px;
+}#WAS {
+	margin-left: 60px;
+}
+#ARI {
+	margin-left: 60px;
+}#NYM {
+	margin-left: 60px;
+}#BAL {
+	margin-left: 60px;
+}#ATL {
+	margin-left: 60px;
+
+}
+
+
+.main{
+margin-left: 110px;
+margin-bottom: 30px;
+}

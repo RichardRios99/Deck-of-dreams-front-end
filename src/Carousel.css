@@ -1,0 +1,20 @@
+
+.slider {
+	align-items: center;
+	/*margin-left: 40px;*/
+	/*box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;*/
+	/*border-radius: 5px;*/
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  margin-right: 53%;
+}
+
+.carousel-control-next {
+	margin-right:900px;
+
+}
+
+.carousel-indicators {
+	margin-right: 1100px;
+}
