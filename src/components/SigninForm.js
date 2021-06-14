@@ -6,7 +6,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { Component } from 'react'
 import '../loginFile.css'
 import {Modal} from 'react-bootstrap'
-import 'antd/dist/antd.css'
 // import {Avatar} from 'antd'
 
 import Avatar from '../images/user.png'

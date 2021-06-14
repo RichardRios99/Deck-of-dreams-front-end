@@ -30,7 +30,7 @@ if (process.env.NODE_ENV === 'development') {
    baseUrl = 'http://localhost:3003'
     
  } else {
-   baseUrl = 'heroku url here'
+   baseUrl = 'https://deck-of-dreams-frontend.herokuapp.com/'
      
  }
 export default class App extends Component {
