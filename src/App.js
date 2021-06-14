@@ -20,8 +20,6 @@ import Stats from './components/stats'
 import Games from './components/games'
 import Post from './components/post'
 
-import { UserOutlined } from '@ant-design/icons';
-import 'antd/dist/antd.css'
 import Qholder from './components/questionHolder'
 // import NewTeam from './components/newTeam'
 
