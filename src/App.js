@@ -19,7 +19,7 @@ import Carousel from 'react-bootstrap/Carousel'
 import Stats from './components/stats'
 import Games from './components/games'
 import Post from './components/post'
-import {Avatar} from 'antd'
+
 import { UserOutlined } from '@ant-design/icons';
 import 'antd/dist/antd.css'
 import Qholder from './components/questionHolder'
