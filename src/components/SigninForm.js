@@ -8,7 +8,7 @@ import '../loginFile.css'
 import {Modal} from 'react-bootstrap'
 import 'antd/dist/antd.css'
 // import {Avatar} from 'antd'
-import { UserOutlined } from '@ant-design/icons';
+
 import Avatar from '../images/user.png'
 import dream from '../images/dream.png'
 
