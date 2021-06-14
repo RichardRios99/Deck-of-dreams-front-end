@@ -22,7 +22,7 @@ export default class Post extends Component {
     getPost = async() => {
 
       
-              const post = await fetch('http://localhost:3003/post',{
+              const post = await fetch('https://deck-of-dreams-backend.herokuapp.com/post',{
        credentials: "include" })
               const allPost = await post.json()
            

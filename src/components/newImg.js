@@ -35,7 +35,7 @@ uploadImg = async (e) => {
 
 
     try {
-       const response = await fetch('http://localhost:3003/single', {
+       const response = await fetch('https://deck-of-dreams-backend.herokuapp.com/single', {
          method: 'POST',
          body: formData,
          

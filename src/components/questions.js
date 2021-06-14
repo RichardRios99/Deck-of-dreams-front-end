@@ -49,7 +49,7 @@ export default function App(props) {
 			],
 		},
 	];
-	let baseUrl = "http://localhost:3003"
+	let baseUrl = "https://deck-of-dreams-backend.herokuapp.com/"
 	const [currentQuestion, setCurrentQuestion] = useState(0);
 	const [showScore, setShowScore] = useState(false);
 	const [score, setScore] = useState(0);
